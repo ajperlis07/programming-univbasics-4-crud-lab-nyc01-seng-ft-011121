@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   first_element = ["wow" , "array"]
-  
+  first_element
 end
 
 def retrieve_last_element_from_array(array)
